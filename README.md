@@ -5,3 +5,5 @@
 - Сборщик: vite
 
 ## Деплой:
+
+<a href="https://duel-balls-game.netlify.app" target="_blank">Сразиться онлайн </a>
