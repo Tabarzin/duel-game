@@ -1,0 +1,17 @@
+.app {
+  display: flex;
+
+  flex-direction: column;
+  align-items: center;
+}
+
+.h1 {
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  color: red;
+}
+
+.blue-text {
+  color: #3498db;
+}

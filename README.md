@@ -1,1 +1,1 @@
-# duel-game
+# DUEL GAME
